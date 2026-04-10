@@ -1,8 +1,8 @@
 # Hey, I'm Nick
 
-CS student at Cornell (May 2026) who builds things that **fly, trade, and think**.
+CS student at Cornell (May 2026) I love to build things that fly, trade, or think.
 
-I've shipped production web apps, written flight software for a GPS-guided parafoil, started three companies, and trained ML models on real government datasets. I tend to find my way into weird, ambitious projects.
+I've shipped production web apps, written flight software for a GPS-guided parafoil, started three companies, and trained ML models on government datasets. I tend to find my way into weird, ambitious projects.
 
 ---
 
