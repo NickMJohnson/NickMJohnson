@@ -11,6 +11,7 @@ I've shipped production web apps, written flight software for a GPS-guided paraf
 ### AI & Full-Stack
 | Project | What it does |
 |--------|--------------|
+| [**Personal CRM Agent**](https://github.com/NickMJohnson/Personal_CRM) | LLM agent that ingests Granola meeting notes into Supabase and texts you via iMessage: daily briefings, pre-meeting dossiers, and natural-language queries. Python + Ara SDK + tool calling |
 | [**Clairvoyant Crime Search**](https://clairvoyant-rouge.vercel.app) | Natural language surveillance search: type "person with yellow backpack", get the clips. React + FastAPI + pgvector + OpenCLIP |
 | [**StockGPT**](https://stock-gpt-five.vercel.app) | Live SEC filing analyzer with AI chat sidebar and custom metric dashboards. Pulls directly from EDGAR XBRL. React + FastAPI + Claude API |
 | [**Billable**](https://hourly-halo.vercel.app) | Freelancer time tracking → PDF invoices → email. One-tap timer, idle detection, per-project rates. React + Supabase + Resend |
