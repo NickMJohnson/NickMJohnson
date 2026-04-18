@@ -11,11 +11,11 @@ I've shipped production web apps, written flight software for a GPS-guided paraf
 ### AI & Full-Stack
 | Project | What it does |
 |--------|--------------|
-| [**Personal CRM Agent**](https://github.com/NickMJohnson/Personal_CRM) | LLM agent that ingests Granola meeting notes into Supabase and texts you via iMessage: daily briefings, pre-meeting dossiers, and natural-language queries. Python + Ara SDK + tool calling |
 | [**Clairvoyant Crime Search**](https://clairvoyant-rouge.vercel.app) | Natural language surveillance search: type "person with yellow backpack", get the clips. React + FastAPI + pgvector + OpenCLIP |
 | [**StockGPT**](https://stock-gpt-five.vercel.app) | Live SEC filing analyzer with AI chat sidebar and custom metric dashboards. Pulls directly from EDGAR XBRL. React + FastAPI + Claude API |
 | [**Billable**](https://hourly-halo.vercel.app) | Freelancer time tracking → PDF invoices → email. One-tap timer, idle detection, per-project rates. React + Supabase + Resend |
 | [**SolidGuard**](https://solidguard.vercel.app) | Smart contract security auditing with RAG-powered vulnerability analysis. React + FastAPI + OpenAI |
+| [**Personal CRM Agent**](https://github.com/NickMJohnson/Personal_CRM) | LLM agent that ingests Granola meeting notes into Supabase and texts you via iMessage: daily briefings, pre-meeting dossiers, and natural-language queries. Python + Ara SDK + tool calling |
 | [**RAG Course Tutor Chatbot**](https://github.com/NickMJohnson/RAG-tutuor-bot) | Deployed tutor for Cornell INFO 4940 grounded in course docs. Guardrails guide students rather than solve for them. Python Shiny + GPT-4.1-mini |
 | [**Portfolio**](https://github.com/NickMJohnson/Retro-Portfolio) | Retro-futuristic portfolio with AI chat assistant, animated hero, and serverless API layer. React + Tailwind + Claude API + Vercel |
 
