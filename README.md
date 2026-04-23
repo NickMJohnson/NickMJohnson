@@ -42,7 +42,7 @@ I've shipped production web apps, written flight software for a GPS-guided paraf
 
 ```
 Languages   Python · Java · TypeScript · C++ · OCaml · Solidity · R · SQL
-Frontend    React · Vite · Tailwind CSS · shadcn/ui · Figma
+Frontend    React · Vite · Tailwind CSS · Figma
 Backend     FastAPI · Node.js · PostgreSQL · Supabase · pgvector · Docker · Railway
 AI / ML     PyTorch · scikit-learn · RAG · Stable Diffusion · Claude API · Agentic AI
 Embedded    Arduino · Sensor Fusion · PID Control · GPS · PWM Servos
